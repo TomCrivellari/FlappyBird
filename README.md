@@ -37,6 +37,7 @@ JavaScript (ES6+) – Lógica do jogo, movimentação, pontuação e colisões
 👨‍💻 Autor
 
 Antonio Crivellari e Gabriel Portes
+
 📧 tomcrivellari@gmail.com
 
 💼 [LinkedIn] (https://www.linkedin.com/in/ant%C3%B4nio-crivellari-b825952b9/)
